@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/JelsonBookDB/static/css/main.073c9b0a.css",
-    "main.js": "/JelsonBookDB/static/js/main.d3b66fed.js",
+    "main.js": "/JelsonBookDB/static/js/main.9f97fc7f.js",
     "static/js/787.9a6f02f4.chunk.js": "/JelsonBookDB/static/js/787.9a6f02f4.chunk.js",
     "static/media/logo.svg": "/JelsonBookDB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/JelsonBookDB/index.html",
     "main.073c9b0a.css.map": "/JelsonBookDB/static/css/main.073c9b0a.css.map",
-    "main.d3b66fed.js.map": "/JelsonBookDB/static/js/main.d3b66fed.js.map",
+    "main.9f97fc7f.js.map": "/JelsonBookDB/static/js/main.9f97fc7f.js.map",
     "787.9a6f02f4.chunk.js.map": "/JelsonBookDB/static/js/787.9a6f02f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d3b66fed.js"
+    "static/js/main.9f97fc7f.js"
   ]
 }
